@@ -1,5 +1,5 @@
 # Guessthepassword
-use the neel.py file along with the other 3 in the same folder.
+Use the neel.py file along with the other 3 in the same folder.
 the game uses a 4 letter password system. 
 Bulls and Cows (also known as Cows and Bulls or Pigs and Bulls) is an old code-breaking mind or paper and pencil game for two or more players, predating the commercially marketed board game Mastermind.
 
