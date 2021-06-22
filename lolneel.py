@@ -1,3 +1,4 @@
+#aurumporteasest
 import random
 
 words=['sink','dunk','last','idle','math','lmao','town','life','king','shit', 'that','stat','melt','dumb','salt','cafe','sour'
